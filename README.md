@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./Assests/background-start.png" alt="Banner" width="100%">
+<kbd><img src="./Assests/background-start.png" alt="Banner" width="100%" style="border-radius: 1rem;"></kbd>
   
   Discord             |  Top used languages
 :-------------------------:|:-------------------------:
