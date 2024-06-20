@@ -1,7 +1,5 @@
-## Hi there 👋
-# I am Artur
-
 <div align="center">
+<img src="./Assests/background-start.png" alt="Banner" width="100%">
   
   Discord             |  Top used languages
 :-------------------------:|:-------------------------:
